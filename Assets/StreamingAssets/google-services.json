@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1023695737195",
+    "project_id": "arfitness-1e168",
+    "storage_bucket": "arfitness-1e168.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023695737195:android:590e6450a8839d3cc3bc2e",
+        "android_client_info": {
+          "package_name": "com.ACRELIS.ARFitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023695737195-l8rm9et25ceqb82qafah7fcklc4ssk06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPwhxy_YSBxn85n2_JFGmV3XQm6FcwZeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023695737195-l8rm9et25ceqb82qafah7fcklc4ssk06.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1023695737195-2uv7kmqbnr33tbcm7q3fqp7h014q8emc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ACRELIS.ARFitness"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023695737195:android:1af05af9b0cfd16dc3bc2e",
+        "android_client_info": {
+          "package_name": "com.ACRELIS.ARFitnessTraningScreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023695737195-l8rm9et25ceqb82qafah7fcklc4ssk06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPwhxy_YSBxn85n2_JFGmV3XQm6FcwZeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023695737195-l8rm9et25ceqb82qafah7fcklc4ssk06.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1023695737195-2uv7kmqbnr33tbcm7q3fqp7h014q8emc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ACRELIS.ARFitness"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
